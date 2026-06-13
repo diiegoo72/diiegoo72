@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Diego 👋
 
-<!--
-**diiegoo72/diiegoo72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Engineering and Statistics student at Universidad de Salamanca.
 
-Here are some ideas to get you started:
+I'm interested in software engineering, backend development, algorithms, databases and applying statistics to real-world systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently working on
+
+- **Examinit**: a web platform for creating, managing and analyzing multiple-choice exams.
+
+## Tech stack
+
+- Java
+- SQL
+- C
+- R
+- Python basics
+- Git / GitHub
+- Linux
+
+## Learning
+
+- Spring Boot
+- PostgreSQL
+- Docker
+- Backend development best practices
